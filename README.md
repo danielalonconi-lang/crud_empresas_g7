@@ -1,4 +1,4 @@
-crud_alumnos/
+crud_empresas_G7/
 ├── main.py
 ├── empresas.csv
 └── src/
